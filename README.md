@@ -14,3 +14,5 @@ Com esse projeto pude continuar meu aprendizado de aula sobre Spring Boot, e uti
 </ul>
 
 e muitos mais!
+
+O projeto foi grande, todavia o resultado me deixou feliz e animado para programar mais com o Spring Boot!
