@@ -1,6 +1,6 @@
 # Projeto-SpringBoot-vollmed_api
 
-Esse projeto foi desenvolvido durante a minha formação de Spring Boot da alura. Nela, criamos o backend de um aplicativo de um hospital ficticio(vollmed_api).
+Esse projeto foi desenvolvido durante a minha formação de Spring Boot da alura. Nela, criei o backend de um aplicativo de um hospital ficticio(vollmed_api).
 
 Com esse projeto pude continuar meu aprendizado de aula sobre Spring Boot, e utilizei diversos recursos dessa ferramenta para me auxiliar, como por exemplo:
 
